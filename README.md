@@ -34,7 +34,7 @@ O projeto permite visualizar faturamento, desempenho dos vendedores, quantidade 
 
 ## 📸 Preview do Dashboard
 
-![Dashboard](preview-dashboard.jpeg)
+![Dashboard](preview-dashboard.png.jpeg)
 
 ---
 
