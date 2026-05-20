@@ -1,13 +1,13 @@
-#Análise Comercial Anual
+# Análise Comercial Anual
 
-##Sobre o Projeto:
+## Sobre o Projeto:
 Dashboard desenvolvido no Power BI com foco em análise comercial e acompanhamento de indicadores de vendas ao longo do ano.
 
 O projeto permite visualizar faturamento, desempenho dos vendedores, quantidade de vendas e evolução mensal dos resultados.
 
 ---
 
-##Objetivos da Análise:
+## Objetivos da Análise:
 - Monitorar faturamento anual
 - Avaliar desempenho dos vendedores
 - Identificar tendências de vendas
@@ -15,7 +15,7 @@ O projeto permite visualizar faturamento, desempenho dos vendedores, quantidade 
 
 ---
 
-##Ferramentas Utilizadas:
+## Ferramentas Utilizadas:
 - Power BI
 - Excel
 - DAX
@@ -23,7 +23,7 @@ O projeto permite visualizar faturamento, desempenho dos vendedores, quantidade 
 
 ---
 
-##Indicadores Analisados:
+## Indicadores Analisados:
 - Faturamento anual
 - Quantidade total de vendas
 - Clientes ativos
@@ -32,11 +32,11 @@ O projeto permite visualizar faturamento, desempenho dos vendedores, quantidade 
 
 ---
 
-##Preview do Dashboard
+## Preview do Dashboard
 
 ![Dashboard](preview-dashboard.png.jpeg)
 
 ---
 
-##Sobre mim:
+## Sobre mim:
 Atualmente estou em transição para a área de Dados e Tecnologia, cursando Análise e Desenvolvimento de Sistemas e desenvolvendo projetos práticos com foco em Power BI, SQL e análise de dados.
